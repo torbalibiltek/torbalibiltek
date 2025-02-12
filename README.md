@@ -22,7 +22,7 @@ Merhaba! Ben **Torbalı Bilişim Teknolojileri Bölümü**, Endüstri Meslek Lis
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kullanici-adiniz) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kullanici-adiniz)
 
-📩 Bana e-posta ile ulaşabilirsiniz: **[torbalibiltek@gmail.com] (mailto:torbalibiltek@gmail.com)**
+📩 Bana e-posta ile ulaşabilirsiniz: **torbalibiltek@gmail.com**
 
 ---
 
